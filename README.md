@@ -2,18 +2,21 @@
 
 ## Table of Contents
 
-- [About Us](#about-us)
 - [Tasks](#tasks)
+  
   - [Level 1](#level-1)
     - [Task 1: Landing Page](#task-1-landing-page)
     - [Task 2: Personal Portfolio](#task-2-personal-portfolio)
     - [Task 3: Calculator](#task-3-calculator)
+      
   - [Level 2](#level-2)
     - [Task 1: Tribute Page](#task-1-tribute-page)
     - [Task 2: Job Board](#task-2-job-board)
+      
   - [Level 3](#level-3)
     - [Task 1: Blogging Platform](#task-1-blogging-platform)
     - [Task 2: Project Management Tool](#task-2-project-management-tool)
+      
 - [License](#license)
 
 ## Tasks
@@ -31,8 +34,8 @@ A landing page project to practice HTML and CSS skills. This task involves creat
 
 Create a personal portfolio website using HTML and CSS. This project includes sections for an introduction, skills, projects, resume, and contact information.
 
-- **Demo**: 
-- **Code**:
+- **Demo**: ![Screenshot](https://github.com/raaichu121/CODSOFT-Web-Development/blob/main/Portfoilo/Screanshot.jpeg)
+- **Code**: [Portfolio Code](https://github.com/raaichu121/CODSOFT-Web-Development/blob/main/Portfoilo/index.html)
 
 #### Task 3: Calculator
 
