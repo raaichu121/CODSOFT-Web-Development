@@ -27,22 +27,16 @@
 
 A landing page project to practice HTML and CSS skills. This task involves creating a visually appealing page with columns, sections, headers, and footers.
 
-- **Demo**: [Landing Page](#)
-- **Code**: [Landing Page Code](#)
 
 #### Task 2: Personal Portfolio
 
 Create a personal portfolio website using HTML and CSS. This project includes sections for an introduction, skills, projects, resume, and contact information.
 
-- **Demo**: ![Screenshot](https://github.com/raaichu121/CODSOFT-Web-Development/blob/main/Portfoilo/Screanshot.jpeg)
-- **Code**: [Portfolio Code](https://github.com/raaichu121/CODSOFT-Web-Development/blob/main/Portfoilo/index.html)
 
 #### Task 3: Calculator
 
 Develop a basic calculator using HTML, CSS, and JavaScript. The calculator supports basic arithmetic operations and has a clean, responsive design.
 
-- **Demo**: ![Screenshot](https://github.com/user-attachments/assets/a8421876-408b-4f49-8a33-c633b9294d53)
-- **Code**: [Calculator Code](https://github.com/raaichu121/CODSOFT-Web-Development/tree/main/Calculator)
 
 ### Level 2
 
@@ -50,15 +44,11 @@ Develop a basic calculator using HTML, CSS, and JavaScript. The calculator suppo
 
 Create a tribute page dedicated to someone you admire. This project requires basic HTML and CSS skills and focuses on creating a visually appealing layout.
 
-- **Demo**: [Tribute Page](#)
-- **Code**: [Tribute Page Code](#)
 
 #### Task 2: Job Board
 
 Build a job board website using React, Node.js, and a database like MongoDB or PostgreSQL. The site includes job listings, employer and candidate dashboards, and search functionality.
 
-- **Demo**: [Job Board](#)
-- **Code**: [Job Board Code](#)
 
 ### Level 3
 
@@ -66,15 +56,11 @@ Build a job board website using React, Node.js, and a database like MongoDB or P
 
 Develop a blogging platform with features like user authentication, post creation, commenting system, and search functionality. This project uses HTML, CSS, JavaScript, and a backend language like Node.js, Python, or PHP.
 
-- **Demo**: [Blogging Platform](#)
-- **Code**: [Blogging Platform Code](#)
 
 #### Task 2: Project Management Tool
 
 Create a project management tool that allows users to create projects, assign tasks, set deadlines, and track progress. Use React, Node.js, and a database like MongoDB or PostgreSQL.
 
-- **Demo**: [Project Management Tool](#)
-- **Code**: [Project Management Tool Code](#)
 
 ## License
 
